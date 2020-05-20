@@ -1,0 +1,7 @@
+.app-header h3{
+    flex: .85;
+}
+
+.app-header .result{
+    font-size: 20px;
+}
